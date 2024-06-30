@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Properties2</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>950</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>system_properties_ui.do?sysparm_title=NeedIt Application Properties&amp;sysparm_category=TestNeedItProperties</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_58872_needit.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-30 14:41:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>21fc2e66c38f02108fd1fdec0501318f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Properties2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_21fc2e66c38f02108fd1fdec0501318f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-30 14:46:04</sys_updated_on>
+        <timeline_page/>
+        <title>Properties2</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b07135971b95cad47d9d2f8dee4bcbe0</instance_id>
+        <instance_name>dev257073</instance_name>
+        <name>sys_app_module_21fc2e66c38f02108fd1fdec0501318f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>Properties2</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>950</order><override_menu_roles>false</override_menu_roles><query>system_properties_ui.do?sysparm_title=NeedIt Application Properties&amp;sysparm_category=TestNeedItProperties</query><report/><require_confirmation>true</require_confirmation><roles>x_58872_needit.admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-30 14:41:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>21fc2e66c38f02108fd1fdec0501318f</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Properties2</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_21fc2e66c38f02108fd1fdec0501318f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-30 14:46:04</sys_updated_on><timeline_page/><title>Properties2</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1204403895</payload_hash>
+        <record_name>Properties2</record_name>
+        <reverted_from/>
+        <source>e8a830a2c34702108fd1fdec05013137</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-30 14:46:05</sys_created_on>
+        <sys_id>512f6ee6c38f02108fd1fdec05013121</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190699c3c050000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-30 14:46:05</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d52f6ee6f58f0210dd1eb75780096120</update_guid>
+        <update_guid_history>d52f6ee6f58f0210dd1eb75780096120:1204403895,6eceaaa6f78f02109e945b360bae2077:-1545053065,f62e6666da8f0210103268d1f1c6b398:1204403895</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Properties2">75213eaac38f02108fd1fdec050131a1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-30 14:54:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>17b0da96ba794bb085ad4ab01963ae69</sys_id>
+        <sys_metadata>21fc2e66c38f02108fd1fdec0501318f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Properties2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_21fc2e66c38f02108fd1fdec0501318f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_21fc2e66c38f02108fd1fdec0501318f">512f6ee6c38f02108fd1fdec05013121</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-30 14:54:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
